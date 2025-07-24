@@ -31,5 +31,8 @@ public class ProjectOneSecurityApplication {
 	    };
 	}
 
+	public int addnumers(int a,int b ) {
+		return a+b;
+	}
 
 }
